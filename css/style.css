@@ -63,3 +63,6 @@ p{ /* Type selector */
   text-decoration: underline;
 }
 
+#details a:active {
+  color:red;
+}
