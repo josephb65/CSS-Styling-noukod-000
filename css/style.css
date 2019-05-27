@@ -11,4 +11,5 @@ selector {
 /* Type selector */
 
 p{ /* Type selector */
-   font-size: iem; /*16px
+   font-size: iem; /*16px, ?pt, 100%, 1em */
+   line-height: 1.5em;
