@@ -27,5 +27,9 @@ p{ /* Type selector */
    text-align: right;
  }
  
- /*class selector (applied elements to as many as you like)
+ /*class selector (applied elements to as many as you like) */
+  .milk-text { /*select elements with class="milk-text" */
+  font: bold 2.6em 'Elsie Swash Caps', cursive;
+  color: white;
+  text-shadow: 
  
